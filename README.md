@@ -2,8 +2,9 @@
 
 Esta aplicación es una página multipropósito usando las tecnologías y/o frameworks Angular, Express, Nodejs y Mysql. El propósito de esta aplicación web, es ser un ejemplo para MISIONTIC 2022.
 
-![](docs/screenshot2.png)
-![](docs/screenshot.png)
+![](docs/index.jpg)
+![](docs/login.jpg)
+![](docs/signup.jpg)
 
 ## Instalación
 
@@ -20,7 +21,7 @@ npm start
 
 ## Puerto del despliegue
 
-- PORT '4000'
+- PORT '82'
 
 ## Herramientas usadas
 
